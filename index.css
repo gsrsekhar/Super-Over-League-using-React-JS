@@ -1,0 +1,23 @@
+/* Write your code here. */
+.heading {
+  color: #f8fafc;
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+}
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.image {
+  width: 30%;
+}
+.image-container {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
